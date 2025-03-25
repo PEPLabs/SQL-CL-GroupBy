@@ -54,6 +54,9 @@ public class GroupByActivity {
          *
          * HINT: You should avoid using the wild card (*) in your statement. All projected columns must either be used
          * in the GROUP BY clause or an aggregate function.
+         *
+         * NOTE: Do not change anything in this code. You should write your sql statement on a single line (do not use 
+         * multi-line formatting) in the problem1.sql file.
          */
         String sql = FileUtil.parseSQLFile("problem1.sql");
 
